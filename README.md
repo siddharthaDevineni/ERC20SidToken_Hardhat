@@ -2,7 +2,7 @@
 
 This project demonstrates an implementation, deployment and testing of a token named Sid which is a standard ERC20 token. Deployment and testing are done in typescript using Hardhat toolkit.
 
-Note: Please add your **_SEPOLIA_RPC_URL_**, **_PRIVATE_KEY_** and **_ETHERSCAN_API_KEY_** in the _env.template_ file to deploy your contract on sepolia test network and verify it on etherscan api.
+Note: Please add your **_SEPOLIA_RPC_URL_**, **_PRIVATE_KEY_** and **_ETHERSCAN_API_KEY_** in the _env.template_ file to deploy the contract on sepolia test network and verify it on etherscan api.
 
 ### Unit tests
 
