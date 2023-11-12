@@ -1,4 +1,4 @@
-# SID token is an ERC20 standard token
+# SID (symbol SD) is an ERC20 standard token
 
 This project demonstrates an implementation, deployment and testing of a token named Sid which is a standard ERC20 token. Deployment and testing are done in typescript using Hardhat toolkit.
 
